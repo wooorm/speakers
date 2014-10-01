@@ -1,0 +1,42 @@
+{
+  "name": "speakers",
+  "version": "0.0.1",
+  "description": "Speaker count for 370 languages",
+  "license": "MIT",
+  "keywords": [
+    "native",
+    "speakers",
+    "natural",
+    "language"
+  ],
+  "dependencies": {
+    "datamap-interface": "^0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wooorm/speakers.git"
+  },
+  "author": "Titus Wormer <tituswormer@gmail.com>",
+  "devDependencies": {
+    "eslint": "^0.8.0",
+    "iso-639-3": "^0.0.2",
+    "istanbul": "^0.3.0",
+    "jscs": "^1.5.0",
+    "mocha": "^1.20.0",
+    "plain-text-data-to-json": "^0.1.1",
+    "udhr": "^0.0.5"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/_mocha --reporter spec --check-leaks -u exports spec/speakers.spec.js",
+    "test-travis": "node_modules/.bin/istanbul cover node_modules/.bin/_mocha --report lcovonly -- --reporter spec --check-leaks -u exports spec/speakers.spec.js",
+    "lint": "npm run lint-api && npm run lint-test && npm run lint-style",
+    "lint-api": "node_modules/.bin/eslint index.js build-data.js build-support.js --env node --env browser --rule 'quotes: [2, single]'",
+    "lint-test": "node_modules/.bin/eslint spec/speakers.spec.js --env node --env mocha --rule 'quotes: [2, single]'",
+    "lint-style": "node_modules/.bin/jscs index.js build-data.js build-support.js spec/speakers.spec.js --reporter=inline",
+    "build-data": "node build-data.js",
+    "build-support": "node build-support.js",
+    "coverage": "node_modules/.bin/istanbul cover node_modules/.bin/_mocha -- -- spec/speakers.spec.js",
+    "prepublish": "npm run build-data && npm run build-support",
+    "make": "npm run lint && npm run coverage"
+  }
+}

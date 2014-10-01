@@ -1,0 +1,22 @@
+{
+  "name": "speakers",
+  "version": "0.0.1",
+  "description": "Speaker count for 370 languages",
+  "license": "MIT",
+  "keywords": [
+    "native",
+    "speakers",
+    "natural",
+    "language"
+  ],
+  "dependencies": {
+    "wooorm/datamap-interface": "^0.1.0"
+  },
+  "repository": "wooorm/speakers",
+  "scripts": [
+    "index.js"
+  ],
+  "json": [
+    "data/speakers.json"
+  ]
+}
