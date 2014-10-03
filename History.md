@@ -1,0 +1,5 @@
+
+n.n.n / 2014-10-03
+==================
+
+ * Fix two typos in hlt and hms
