@@ -11,9 +11,8 @@ For more information on ISO codes, see [infoterm.info](http://www.infoterm.info/
 | [rus](http://www.ethnologue.com/language/rus) | 288000000 | rus | ru | Russian |
 | [arb](http://www.ethnologue.com/language/arb) | 280000000 |  |  | Standard Arabic |
 | [ben](http://www.ethnologue.com/language/ben) | 196000000 | ben | bn | Bengali |
-| [por](http://www.ethnologue.com/language/por) | 182000000 | por | pt | Portuguese |
-| [hlt](http://www.ethnologue.com/language/hlt) | 182000000 |  |  | Matu Chin |
 | [hin](http://www.ethnologue.com/language/hin) | 182000000 | hin | hi | Hindi |
+| [por](http://www.ethnologue.com/language/por) | 182000000 | por | pt | Portuguese |
 | [ind](http://www.ethnologue.com/language/ind) | 140000000 | ind | id | Indonesian |
 | [jpn](http://www.ethnologue.com/language/jpn) | 125000000 | jpn | ja | Japanese |
 | [fra](http://www.ethnologue.com/language/fra) | 124000000 | fra | fr | French |
@@ -27,15 +26,15 @@ For more information on ISO codes, see [infoterm.info](http://www.infoterm.info/
 | [tam](http://www.ethnologue.com/language/tam) | 62000000 | tam | ta | Tamil |
 | [tur](http://www.ethnologue.com/language/tur) | 59000000 | tur | tr | Turkish |
 | [urd](http://www.ethnologue.com/language/urd) | 54000000 | urd | ur | Urdu |
-| [guj](http://www.ethnologue.com/language/guj) | 44000000 | guj | gu | Gujarati |
 | [pol](http://www.ethnologue.com/language/pol) | 44000000 | pol | pl | Polish |
+| [guj](http://www.ethnologue.com/language/guj) | 44000000 | guj | gu | Gujarati |
 | [ukr](http://www.ethnologue.com/language/ukr) | 41000000 | ukr | uk | Ukrainian |
 | [awa](http://www.ethnologue.com/language/awa) | 38261000 | awa |  | Awadhi |
 | [mai](http://www.ethnologue.com/language/mai) | 34700000 | mai |  | Maithili |
 | [mal](http://www.ethnologue.com/language/mal) | 34014000 | mal | ml | Malayalam |
 | [kan](http://www.ethnologue.com/language/kan) | 33663000 | kan | kn | Kannada |
-| [ori](http://www.ethnologue.com/language/ori) | 31000000 | ori | or | Oriya (macrolanguage) |
 | [mya](http://www.ethnologue.com/language/mya) | 31000000 | mya | my | Burmese |
+| [ori](http://www.ethnologue.com/language/ori) | 31000000 | ori | or | Oriya (macrolanguage) |
 | [gax](http://www.ethnologue.com/language/gax) | 30000000 |  |  | Borana-Arsi-Guji Oromo |
 | [swh](http://www.ethnologue.com/language/swh) | 30000000 |  |  | Swahili (individual language) |
 | [sun](http://www.ethnologue.com/language/sun) | 27000000 | sun | su | Sundanese |
@@ -45,11 +44,11 @@ For more information on ISO codes, see [infoterm.info](http://www.infoterm.info/
 | [amh](http://www.ethnologue.com/language/amh) | 23000000 | amh | am | Amharic |
 | [hau](http://www.ethnologue.com/language/hau) | 22000000 | hau | ha | Hausa |
 | [fuc](http://www.ethnologue.com/language/fuc) | 22000000 |  |  | Pulaar |
-| [bos](http://www.ethnologue.com/language/bos) | 21000000 | bos | bs | Bosnian |
-| [nld](http://www.ethnologue.com/language/nld) | 21000000 | nld | nl | Dutch |
-| [hrv](http://www.ethnologue.com/language/hrv) | 21000000 | hrv | hr | Croatian |
 | [tha](http://www.ethnologue.com/language/tha) | 21000000 | tha | th | Thai |
+| [bos](http://www.ethnologue.com/language/bos) | 21000000 | bos | bs | Bosnian |
 | [srp](http://www.ethnologue.com/language/srp) | 21000000 | srp | sr | Serbian |
+| [hrv](http://www.ethnologue.com/language/hrv) | 21000000 | hrv | hr | Croatian |
+| [nld](http://www.ethnologue.com/language/nld) | 21000000 | nld | nl | Dutch |
 | [yor](http://www.ethnologue.com/language/yor) | 20000000 | yor | yo | Yoruba |
 | [ckb](http://www.ethnologue.com/language/ckb) | 20000000 |  |  | Central Kurdish |
 | [snd](http://www.ethnologue.com/language/snd) | 19675000 | snd | sd | Sindhi |
@@ -79,20 +78,21 @@ For more information on ISO codes, see [infoterm.info](http://www.infoterm.info/
 | [bjj](http://www.ethnologue.com/language/bjj) | 9500000 |  |  | Kanauji |
 | [kin](http://www.ethnologue.com/language/kin) | 9306800 | kin | rw | Kinyarwanda |
 | [zul](http://www.ethnologue.com/language/zul) | 9140000 | zul | zu | Zulu |
-| [bul](http://www.ethnologue.com/language/bul) | 9000000 | bul | bg | Bulgarian |
 | [swe](http://www.ethnologue.com/language/swe) | 9000000 | swe | sv | Swedish |
+| [bul](http://www.ethnologue.com/language/bul) | 9000000 | bul | bg | Bulgarian |
 | [lin](http://www.ethnologue.com/language/lin) | 8400000 | lin | ln | Lingala |
 | [som](http://www.ethnologue.com/language/som) | 8335000 | som | so | Somali |
+| [hms](http://www.ethnologue.com/language/hms) | 8200000 |  |  | Southern Qiandong Miao |
 | [kmr](http://www.ethnologue.com/language/kmr) | 8000000 |  |  | Northern Kurdish |
 | [ilo](http://www.ethnologue.com/language/ilo) | 8000000 | ilo |  | Iloko |
 | [kaz](http://www.ethnologue.com/language/kaz) | 8000000 | kaz | kk | Kazakh |
 | [uig](http://www.ethnologue.com/language/uig) | 7464000 | uig | ug | Uighur |
 | [hat](http://www.ethnologue.com/language/hat) | 7382000 | hat | ht | Haitian |
 | [khm](http://www.ethnologue.com/language/khm) | 7063200 | khm | km | Central Khmer |
-| [hil](http://www.ethnologue.com/language/hil) | 7000000 | hil |  | Hiligaynon |
-| [aka](http://www.ethnologue.com/language/aka) | 7000000 | aka | ak | Akan |
-| [pes](http://www.ethnologue.com/language/pes) | 7000000 |  |  | Iranian Persian |
 | [sna](http://www.ethnologue.com/language/sna) | 7000000 | sna | sn | Shona |
+| [aka](http://www.ethnologue.com/language/aka) | 7000000 | aka | ak | Akan |
+| [hil](http://www.ethnologue.com/language/hil) | 7000000 | hil |  | Hiligaynon |
+| [pes](http://www.ethnologue.com/language/pes) | 7000000 |  |  | Iranian Persian |
 | [tat](http://www.ethnologue.com/language/tat) | 7000000 | tat | tt | Tatar |
 | [xho](http://www.ethnologue.com/language/xho) | 6858000 | xho | xh | Xhosa |
 | [hye](http://www.ethnologue.com/language/hye) | 6836000 | hye | hy | Armenian |
@@ -107,8 +107,8 @@ For more information on ISO codes, see [infoterm.info](http://www.infoterm.info/
 | [slk](http://www.ethnologue.com/language/slk) | 5606000 | slk | sk | Slovak |
 | [tuk](http://www.ethnologue.com/language/tuk) | 5397500 | tuk | tk | Turkmen |
 | [dan](http://www.ethnologue.com/language/dan) | 5292000 | dan | da | Danish |
-| [nob](http://www.ethnologue.com/language/nob) | 5000000 | nob | nb | Norwegian Bokmål |
 | [suk](http://www.ethnologue.com/language/suk) | 5000000 | suk |  | Sukuma |
+| [nob](http://www.ethnologue.com/language/nob) | 5000000 | nob | nb | Norwegian Bokmål |
 | [als](http://www.ethnologue.com/language/als) | 5000000 |  |  | Tosk Albanian |
 | [sag](http://www.ethnologue.com/language/sag) | 4900000 | sag | sg | Sango |
 | [nno](http://www.ethnologue.com/language/nno) | 4700000 | nno | nn | Norwegian Nynorsk |
@@ -119,11 +119,11 @@ For more information on ISO codes, see [infoterm.info](http://www.infoterm.info/
 | [cat](http://www.ethnologue.com/language/cat) | 4353000 | cat | ca | Catalan |
 | [sot](http://www.ethnologue.com/language/sot) | 4197000 | sot | st | Southern Sotho |
 | [kat](http://www.ethnologue.com/language/kat) | 4103000 | kat | ka | Georgian |
-| [glg](http://www.ethnologue.com/language/glg) | 4000000 | glg | gl | Galician |
-| [bcl](http://www.ethnologue.com/language/bcl) | 4000000 |  |  | Central Bikol |
 | [lao](http://www.ethnologue.com/language/lao) | 4000000 | lao | lo | Lao |
-| [lit](http://www.ethnologue.com/language/lit) | 4000000 | lit | lt | Lithuanian |
+| [bcl](http://www.ethnologue.com/language/bcl) | 4000000 |  |  | Central Bikol |
 | [umb](http://www.ethnologue.com/language/umb) | 4000000 | umb |  | Umbundu |
+| [glg](http://www.ethnologue.com/language/glg) | 4000000 | glg | gl | Galician |
+| [lit](http://www.ethnologue.com/language/lit) | 4000000 | lit | lt | Lithuanian |
 | [tsn](http://www.ethnologue.com/language/tsn) | 3932000 | tsn | tn | Tswana |
 | [nso](http://www.ethnologue.com/language/nso) | 3851000 | nso |  | Pedi |
 | [ban](http://www.ethnologue.com/language/ban) | 3800000 | ban |  | Balinese |
@@ -131,21 +131,21 @@ For more information on ISO codes, see [infoterm.info](http://www.infoterm.info/
 | [knc](http://www.ethnologue.com/language/knc) | 3500000 |  |  | Central Kanuri |
 | [ibb](http://www.ethnologue.com/language/ibb) | 3186000 |  |  | Ibibio |
 | [lug](http://www.ethnologue.com/language/lug) | 3015980 | lug | lg | Ganda |
-| [ydd](http://www.ethnologue.com/language/ydd) | 3000000 |  |  | Eastern Yiddish |
-| [ace](http://www.ethnologue.com/language/ace) | 3000000 | ace |  | Achinese |
-| [lun](http://www.ethnologue.com/language/lun) | 3000000 | lun |  | Lunda |
 | [war](http://www.ethnologue.com/language/war) | 3000000 | war |  | Waray (Philippines) |
 | [shn](http://www.ethnologue.com/language/shn) | 3000000 | shn |  | Shan |
-| [bam](http://www.ethnologue.com/language/bam) | 3000000 | bam | bm | Bambara |
 | [tzm](http://www.ethnologue.com/language/tzm) | 3000000 |  |  | Central Atlas Tamazight |
+| [ydd](http://www.ethnologue.com/language/ydd) | 3000000 |  |  | Eastern Yiddish |
 | [kmb](http://www.ethnologue.com/language/kmb) | 3000000 | kmb |  | Kimbundu |
+| [bam](http://www.ethnologue.com/language/bam) | 3000000 | bam | bm | Bambara |
+| [ace](http://www.ethnologue.com/language/ace) | 3000000 | ace |  | Achinese |
+| [lun](http://www.ethnologue.com/language/lun) | 3000000 | lun |  | Lunda |
 | [gbm](http://www.ethnologue.com/language/gbm) | 2920000 |  |  | Garhwali |
-| [wol](http://www.ethnologue.com/language/wol) | 2700000 | wol | wo | Wolof |
 | [dyu](http://www.ethnologue.com/language/dyu) | 2700000 | dyu |  | Dyula |
+| [wol](http://www.ethnologue.com/language/wol) | 2700000 | wol | wo | Wolof |
 | [kir](http://www.ethnologue.com/language/kir) | 2631420 | kir | ky | Kirghiz |
 | [nds](http://www.ethnologue.com/language/nds) | 2600000 | nds |  | Low German |
-| [mkd](http://www.ethnologue.com/language/mkd) | 2500000 | mkd | mk | Macedonian |
 | [vmw](http://www.ethnologue.com/language/vmw) | 2500000 |  |  | Makhuwa |
+| [mkd](http://www.ethnologue.com/language/mkd) | 2500000 | mkd | mk | Macedonian |
 | [ewe](http://www.ethnologue.com/language/ewe) | 2477600 | ewe | ee | Ewe |
 | [khk](http://www.ethnologue.com/language/khk) | 2330000 |  |  | Halh Mongolian |
 | [slv](http://www.ethnologue.com/language/slv) | 2218000 | slv | sl | Slovenian |
@@ -153,11 +153,11 @@ For more information on ISO codes, see [infoterm.info](http://www.infoterm.info/
 | [bem](http://www.ethnologue.com/language/bem) | 2150000 | bem |  | Bemba (Zambia) |
 | [emk](http://www.ethnologue.com/language/emk) | 2140300 |  |  | Eastern Maninkakan |
 | [bci](http://www.ethnologue.com/language/bci) | 2130000 |  |  | Baoulé |
+| [pam](http://www.ethnologue.com/language/pam) | 2000000 | pam |  | Pampanga |
 | [epo](http://www.ethnologue.com/language/epo) | 2000000 | epo | eo | Esperanto |
+| [tiv](http://www.ethnologue.com/language/tiv) | 2000000 | tiv |  | Tiv |
 | [tpi](http://www.ethnologue.com/language/tpi) | 2000000 | tpi |  | Tok Pisin |
 | [ksw](http://www.ethnologue.com/language/ksw) | 2000000 |  |  | S'gaw Karen |
-| [tiv](http://www.ethnologue.com/language/tiv) | 2000000 | tiv |  | Tiv |
-| [pam](http://www.ethnologue.com/language/pam) | 2000000 | pam |  | Pampanga |
 | [gno](http://www.ethnologue.com/language/gno) | 1950000 |  |  | Northern Gondi |
 | [bgp](http://www.ethnologue.com/language/bgp) | 1735000 |  |  | Eastern Balochi |
 | [ssw](http://www.ethnologue.com/language/ssw) | 1670000 | ssw | ss | Swati |
@@ -166,12 +166,12 @@ For more information on ISO codes, see [infoterm.info](http://www.infoterm.info/
 | [yao](http://www.ethnologue.com/language/yao) | 1597000 | yao |  | Yao |
 | [unr](http://www.ethnologue.com/language/unr) | 1560280 |  |  | Mundari |
 | [lav](http://www.ethnologue.com/language/lav) | 1550000 | lav | lv | Latvian |
-| [hoc](http://www.ethnologue.com/language/hoc) | 1500000 |  |  | Ho |
-| [tso](http://www.ethnologue.com/language/tso) | 1500000 | tso | ts | Tsonga |
 | [quz](http://www.ethnologue.com/language/quz) | 1500000 |  |  | Cusco Quechua |
+| [tso](http://www.ethnologue.com/language/tso) | 1500000 | tso | ts | Tsonga |
 | [src](http://www.ethnologue.com/language/src) | 1500000 |  |  | Logudorese Sardinian |
-| [sco](http://www.ethnologue.com/language/sco) | 1500000 | sco |  | Scots |
 | [rmy](http://www.ethnologue.com/language/rmy) | 1500000 |  |  | Vlax Romani |
+| [sco](http://www.ethnologue.com/language/sco) | 1500000 | sco |  | Scots |
+| [hoc](http://www.ethnologue.com/language/hoc) | 1500000 |  |  | Ho |
 | [men](http://www.ethnologue.com/language/men) | 1480000 | men |  | Mende (Sierra Leone) |
 | [fon](http://www.ethnologue.com/language/fon) | 1436000 | fon |  | Fon |
 | [nhn](http://www.ethnologue.com/language/nhn) | 1376898 |  |  | Central Nahuatl |
@@ -180,54 +180,53 @@ For more information on ISO codes, see [infoterm.info](http://www.infoterm.info/
 | [kde](http://www.ethnologue.com/language/kde) | 1260000 |  |  | Makonde |
 | [snn](http://www.ethnologue.com/language/snn) | 1240000 |  |  | Siona |
 | [pwo](http://www.ethnologue.com/language/pwo) | 1209800 |  |  | Pwo Western Karen |
-| [kbp](http://www.ethnologue.com/language/kbp) | 1200000 |  |  | Kabiyè |
 | [tem](http://www.ethnologue.com/language/tem) | 1200000 | tem |  | Timne |
+| [kbp](http://www.ethnologue.com/language/kbp) | 1200000 |  |  | Kabiyè |
 | [toi](http://www.ethnologue.com/language/toi) | 1105000 |  |  | Tonga (Zambia) |
 | [est](http://www.ethnologue.com/language/est) | 1100000 | est | et | Estonian |
 | [snk](http://www.ethnologue.com/language/snk) | 1067000 | snk |  | Soninke |
 | [cjk](http://www.ethnologue.com/language/cjk) | 1004000 |  |  | Chokwe |
+| [gaa](http://www.ethnologue.com/language/gaa) | 1000000 | gaa |  | Ga |
+| [rmn](http://www.ethnologue.com/language/rmn) | 1000000 |  |  | Balkan Romani |
+| [quy](http://www.ethnologue.com/language/quy) | 1000000 |  |  | Ayacucho Quechua |
+| [ndo](http://www.ethnologue.com/language/ndo) | 1000000 | ndo | ng | Ndonga |
+| [aii](http://www.ethnologue.com/language/aii) | 1000000 |  |  | Assyrian Neo-Aramaic |
 | [ada](http://www.ethnologue.com/language/ada) | 1000000 | ada |  | Adangme |
 | [bin](http://www.ethnologue.com/language/bin) | 1000000 | bin |  | Bini |
 | [kng](http://www.ethnologue.com/language/kng) | 1000000 |  |  | Koongo |
-| [rmn](http://www.ethnologue.com/language/rmn) | 1000000 |  |  | Balkan Romani |
-| [quy](http://www.ethnologue.com/language/quy) | 1000000 |  |  | Ayacucho Quechua |
-| [aii](http://www.ethnologue.com/language/aii) | 1000000 |  |  | Assyrian Neo-Aramaic |
-| [gaa](http://www.ethnologue.com/language/gaa) | 1000000 | gaa |  | Ga |
-| [ndo](http://www.ethnologue.com/language/ndo) | 1000000 | ndo | ng | Ndonga |
 | [nym](http://www.ethnologue.com/language/nym) | 926000 | nym |  | Nyamwezi |
 | [sus](http://www.ethnologue.com/language/sus) | 923000 | sus |  | Susu |
 | [ven](http://www.ethnologue.com/language/ven) | 876409 | ven | ve | Venda |
 | [srr](http://www.ethnologue.com/language/srr) | 868800 | srr |  | Serer |
 | [kha](http://www.ethnologue.com/language/kha) | 865000 | kha |  | Khasi |
-| [hms](http://www.ethnologue.com/language/hms) | 820000 |  |  | Southern Qiandong Miao |
 | [hea](http://www.ethnologue.com/language/hea) | 820000 |  |  | Northern Qiandong Miao |
 | [gkp](http://www.ethnologue.com/language/gkp) | 808000 |  |  | Guinea Kpelle |
 | [nus](http://www.ethnologue.com/language/nus) | 804900 |  |  | Nuer |
 | [hni](http://www.ethnologue.com/language/hni) | 747000 |  |  | Hani |
 | [yua](http://www.ethnologue.com/language/yua) | 700000 |  |  | Yucateco |
 | [fij](http://www.ethnologue.com/language/fij) | 650000 | fij | fj | Fijian |
-| [wln](http://www.ethnologue.com/language/wln) | 600000 | wln | wa | Walloon |
 | [tet](http://www.ethnologue.com/language/tet) | 600000 | tet |  | Tetum |
+| [wln](http://www.ethnologue.com/language/wln) | 600000 | wln | wa | Walloon |
 | [fur](http://www.ethnologue.com/language/fur) | 600000 | fur |  | Friulian |
-| [nbl](http://www.ethnologue.com/language/nbl) | 588000 | nbl | nr | South Ndebele |
 | [eus](http://www.ethnologue.com/language/eus) | 588000 | eus | eu | Basque |
 | [oss](http://www.ethnologue.com/language/oss) | 588000 | oss | os | Ossetian |
+| [nbl](http://www.ethnologue.com/language/nbl) | 588000 | nbl | nr | South Ndebele |
 | [pov](http://www.ethnologue.com/language/pov) | 580000 |  |  | Upper Guinea Crioulo |
 | [cym](http://www.ethnologue.com/language/cym) | 580000 | cym | cy | Welsh |
 | [lus](http://www.ethnologue.com/language/lus) | 541750 | lus |  | Lushai |
 | [dag](http://www.ethnologue.com/language/dag) | 540000 |  |  | Dagbani |
 | [dga](http://www.ethnologue.com/language/dga) | 501000 |  |  | Southern Dagaare |
-| [roh](http://www.ethnologue.com/language/roh) | 500000 | roh | rm | Romansh |
 | [pcd](http://www.ethnologue.com/language/pcd) | 500000 |  |  | Picard |
+| [roh](http://www.ethnologue.com/language/roh) | 500000 | roh | rm | Romansh |
 | [kek](http://www.ethnologue.com/language/kek) | 500000 |  |  | Kekchí |
 | [bre](http://www.ethnologue.com/language/bre) | 500000 | bre | br | Breton |
-| [kri](http://www.ethnologue.com/language/kri) | 480000 |  |  | Krio |
 | [bfa](http://www.ethnologue.com/language/bfa) | 480000 |  |  | Bari |
+| [kri](http://www.ethnologue.com/language/kri) | 480000 |  |  | Krio |
 | [cnh](http://www.ethnologue.com/language/cnh) | 446264 |  |  | Haka Chin |
 | [lob](http://www.ethnologue.com/language/lob) | 442000 |  |  | Lobi |
 | [arn](http://www.ethnologue.com/language/arn) | 440000 | arn |  | Mapudungun |
-| [bba](http://www.ethnologue.com/language/bba) | 400000 |  |  | Baatonum |
 | [dzo](http://www.ethnologue.com/language/dzo) | 400000 | dzo | dz | Dzongkha |
+| [bba](http://www.ethnologue.com/language/bba) | 400000 |  |  | Baatonum |
 | [kea](http://www.ethnologue.com/language/kea) | 393943 |  |  | Kabuverdianu |
 | [sah](http://www.ethnologue.com/language/sah) | 363000 | sah |  | Yakut |
 | [smo](http://www.ethnologue.com/language/smo) | 362000 | smo | sm | Samoan |
@@ -242,22 +241,22 @@ For more information on ISO codes, see [infoterm.info](http://www.infoterm.info/
 | [mlt](http://www.ethnologue.com/language/mlt) | 330000 | mlt | mt | Maltese |
 | [hna](http://www.ethnologue.com/language/hna) | 327000 |  |  | Mina (Cameroon) |
 | [guc](http://www.ethnologue.com/language/guc) | 305000 |  |  | Wayuu |
-| [qwh](http://www.ethnologue.com/language/qwh) | 300000 |  |  | Huaylas Ancash Quechua |
 | [quc](http://www.ethnologue.com/language/quc) | 300000 |  |  | K'iche' |
+| [qwh](http://www.ethnologue.com/language/qwh) | 300000 |  |  | Huaylas Ancash Quechua |
 | [khr](http://www.ethnologue.com/language/khr) | 293580 |  |  | Kharia |
 | [div](http://www.ethnologue.com/language/div) | 287000 | div | dv | Dhivehi |
 | [isl](http://www.ethnologue.com/language/isl) | 282845 | isl | is | Icelandic |
 | [taq](http://www.ethnologue.com/language/taq) | 281200 |  |  | Tamasheq |
 | [kqn](http://www.ethnologue.com/language/kqn) | 276000 |  |  | Kaonde |
-| [gle](http://www.ethnologue.com/language/gle) | 260000 | gle | ga | Irish |
 | [dyo](http://www.ethnologue.com/language/dyo) | 260000 |  |  | Jola-Fonyi |
+| [gle](http://www.ethnologue.com/language/gle) | 260000 | gle | ga | Irish |
 | [gjn](http://www.ethnologue.com/language/gjn) | 250000 |  |  | Gonja |
 | [kfa](http://www.ethnologue.com/language/kfa) | 241000 |  |  | Kodava |
 | [njo](http://www.ethnologue.com/language/njo) | 232000 |  |  | Ao Naga |
-| [qxn](http://www.ethnologue.com/language/qxn) | 200000 |  |  | Northern Conchucos Ancash Quechua |
-| [tyv](http://www.ethnologue.com/language/tyv) | 200000 | tyv |  | Tuvinian |
 | [ote](http://www.ethnologue.com/language/ote) | 200000 |  |  | Mezquital Otomi |
 | [xsm](http://www.ethnologue.com/language/xsm) | 200000 |  |  | Kasem |
+| [tyv](http://www.ethnologue.com/language/tyv) | 200000 | tyv |  | Tuvinian |
+| [qxn](http://www.ethnologue.com/language/qxn) | 200000 |  |  | Northern Conchucos Ancash Quechua |
 | [gag](http://www.ethnologue.com/language/gag) | 198000 |  |  | Gagauz |
 | [san](http://www.ethnologue.com/language/san) | 194433 | san | sa | Sanskrit |
 | [shk](http://www.ethnologue.com/language/shk) | 175000 |  |  | Shilluk |
@@ -291,17 +290,17 @@ For more information on ISO codes, see [infoterm.info](http://www.infoterm.info/
 | [mri](http://www.ethnologue.com/language/mri) | 70000 | mri | mi | Maori |
 | [pbb](http://www.ethnologue.com/language/pbb) | 68487 |  |  | Páez |
 | [alt](http://www.ethnologue.com/language/alt) | 68000 | alt |  | Southern Altai |
-| [qva](http://www.ethnologue.com/language/qva) | 65000 |  |  | Ambo-Pasco Quechua |
 | [mxv](http://www.ethnologue.com/language/mxv) | 65000 |  |  | Metlatónoc Mixtec |
+| [qva](http://www.ethnologue.com/language/qva) | 65000 |  |  | Ambo-Pasco Quechua |
 | [gla](http://www.ethnologue.com/language/gla) | 63653 | gla | gd | Scottish Gaelic |
-| [csw](http://www.ethnologue.com/language/csw) | 60000 |  |  | Swampy Cree |
 | [kjh](http://www.ethnologue.com/language/kjh) | 60000 |  |  | Khakas |
+| [csw](http://www.ethnologue.com/language/csw) | 60000 |  |  | Swampy Cree |
 | [qvm](http://www.ethnologue.com/language/qvm) | 55000 |  |  | Margos-Yarowilca-Lauricocha Quechua |
 | [cax](http://www.ethnologue.com/language/cax) | 47086 |  |  | Chiquitano |
-| [kal](http://www.ethnologue.com/language/kal) | 47000 | kal | kl | Kalaallisut |
 | [fao](http://www.ethnologue.com/language/fao) | 47000 | fao | fo | Faroese |
-| [cni](http://www.ethnologue.com/language/cni) | 45000 |  |  | Asháninka |
+| [kal](http://www.ethnologue.com/language/kal) | 47000 | kal | kl | Kalaallisut |
 | [chk](http://www.ethnologue.com/language/chk) | 45000 | chk |  | Chuukese |
+| [cni](http://www.ethnologue.com/language/cni) | 45000 |  |  | Asháninka |
 | [mah](http://www.ethnologue.com/language/mah) | 43900 | mah | mh | Marshallese |
 | [rar](http://www.ethnologue.com/language/rar) | 43000 | rar |  | Rarotongan |
 | [wwa](http://www.ethnologue.com/language/wwa) | 40000 |  |  | Waama |
@@ -313,8 +312,9 @@ For more information on ISO codes, see [infoterm.info](http://www.infoterm.info/
 | [toj](http://www.ethnologue.com/language/toj) | 36000 |  |  | Tojolabal |
 | [lue](http://www.ethnologue.com/language/lue) | 35800 |  |  | Luvale |
 | [ojb](http://www.ethnologue.com/language/ojb) | 35000 |  |  | Northwestern Ojibwa |
-| [qvc](http://www.ethnologue.com/language/qvc) | 35000 |  |  | Cajamarca Quechua |
 | [jiv](http://www.ethnologue.com/language/jiv) | 35000 |  |  | Shuar |
+| [qvc](http://www.ethnologue.com/language/qvc) | 35000 |  |  | Cajamarca Quechua |
+| [hlt](http://www.ethnologue.com/language/hlt) | 30000 |  |  | Matu Chin |
 | [qud](http://www.ethnologue.com/language/qud) | 30000 |  |  | Calderón Highland Quichua |
 | [pon](http://www.ethnologue.com/language/pon) | 27700 | pon |  | Pohnpeian |
 | [agr](http://www.ethnologue.com/language/agr) | 27500 |  |  | Aguaruna |
@@ -330,8 +330,8 @@ For more information on ISO codes, see [infoterm.info](http://www.infoterm.info/
 | [guu](http://www.ethnologue.com/language/guu) | 17640 |  |  | Yanomamö |
 | [qxu](http://www.ethnologue.com/language/qxu) | 16000 |  |  | Arequipa-La Unión Quechua |
 | [bvi](http://www.ethnologue.com/language/bvi) | 16000 |  |  | Belanda Viri |
-| [shp](http://www.ethnologue.com/language/shp) | 15000 |  |  | Shipibo-Conibo |
 | [pau](http://www.ethnologue.com/language/pau) | 15000 | pau |  | Palauan |
+| [shp](http://www.ethnologue.com/language/shp) | 15000 |  |  | Shipibo-Conibo |
 | [gld](http://www.ethnologue.com/language/gld) | 12003 |  |  | Nanai |
 | [gug](http://www.ethnologue.com/language/gug) | 12000 |  |  | Paraguayan Guaraní |
 | [mzi](http://www.ethnologue.com/language/mzi) | 11000 |  |  | Ixcatlán Mazatec |
@@ -354,8 +354,8 @@ For more information on ISO codes, see [infoterm.info](http://www.infoterm.info/
 | [cbu](http://www.ethnologue.com/language/cbu) | 3000 |  |  | Candoshi-Shapra |
 | [huu](http://www.ethnologue.com/language/huu) | 2900 |  |  | Murui Huitoto |
 | [cof](http://www.ethnologue.com/language/cof) | 2300 |  |  | Colorado |
-| [cbs](http://www.ethnologue.com/language/cbs) | 2000 |  |  | Cashinahua |
 | [boa](http://www.ethnologue.com/language/boa) | 2000 |  |  | Bora |
+| [cbs](http://www.ethnologue.com/language/cbs) | 2000 |  |  | Cashinahua |
 | [ztu](http://www.ethnologue.com/language/ztu) | 2000 |  |  | Güilá Zapotec |
 | [cbr](http://www.ethnologue.com/language/cbr) | 1500 |  |  | Cashibo-Cacataibo |
 | [con](http://www.ethnologue.com/language/con) | 1400 |  |  | Cofán |
@@ -363,9 +363,9 @@ For more information on ISO codes, see [infoterm.info](http://www.infoterm.info/
 | [bis](http://www.ethnologue.com/language/bis) | 1200 | bis | bi | Bislama |
 | [ykg](http://www.ethnologue.com/language/ykg) | 1100 |  |  | Northern Yukaghir |
 | [nio](http://www.ethnologue.com/language/nio) | 1063 |  |  | Nganasan |
-| [csa](http://www.ethnologue.com/language/csa) | 1000 |  |  | Chiltepec Chinantec |
-| [niv](http://www.ethnologue.com/language/niv) | 1000 |  |  | Gilyak |
 | [cic](http://www.ethnologue.com/language/cic) | 1000 |  |  | Chickasaw |
+| [niv](http://www.ethnologue.com/language/niv) | 1000 |  |  | Gilyak |
+| [csa](http://www.ethnologue.com/language/csa) | 1000 |  |  | Chiltepec Chinantec |
 | [mcd](http://www.ethnologue.com/language/mcd) | 950 |  |  | Sharanahua |
 | [amc](http://www.ethnologue.com/language/amc) | 720 |  |  | Amahuaca |
 | [amr](http://www.ethnologue.com/language/amr) | 500 |  |  | Amarakaeri |
