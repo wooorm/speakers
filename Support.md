@@ -3,8 +3,6 @@ Supported Languages
 
 For more information on ISO codes, see [infoterm.info](http://www.infoterm.info/standardization/ISO_639.php) or [Wikipedia](http://en.wikipedia.org/wiki/ISO_639).
 
-| 639-3 | Speakers | 639-2T | 639-1 | Name |
-| ----: | -------: | :----- | :---- | :--- |
 |                                         639-3 |  Speakers | 639-2T | 639-1 | Name                                  |
 | --------------------------------------------: | --------: | :----- | :---- | :------------------------------------ |
 | [cmn](http://www.ethnologue.com/language/cmn) | 885000000 |        |       | Mandarin Chinese                      |

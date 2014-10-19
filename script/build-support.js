@@ -65,8 +65,6 @@ fs.writeFileSync('Support.md',
     '(http://www.infoterm.info/standardization/ISO_639.php) or [Wikipedia]' +
     '(http://en.wikipedia.org/wiki/ISO_639).\n' +
     '\n' +
-    '| 639-3 | Speakers | 639-2T | 639-1 | Name |\n' +
-    '| ----: | -------: | :----- | :---- | :--- |\n' +
 
     table(data, {
         'align' : ['r', 'r', 'l', 'l', 'l']
