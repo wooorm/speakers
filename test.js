@@ -21,6 +21,7 @@ describe('speakers.get(property)', function () {
         result = speakers.get('eng');
 
         assert(typeof result === 'object');
+
         assert(result.speakers === 322000000);
         assert(result.iso6391 === 'en');
         assert(result.iso6392 === 'eng');
@@ -66,6 +67,7 @@ describe('speakers.all()', function () {
 
     it('should return all values in the datamap', function () {
         assert(Object.keys(all).length === 370);
+
         assert('eng' in all);
         assert('nld' in all);
     });
@@ -74,6 +76,7 @@ describe('speakers.all()', function () {
         all.unicorn = 'mammal';
 
         assert(!speakers.has('unicorn'));
+
         assert(!('unicorn' in speakers.all()));
     });
 });
