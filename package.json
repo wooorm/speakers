@@ -10,7 +10,7 @@
     "language"
   ],
   "dependencies": {
-    "datamap-interface": "^0.1.0"
+    "datamap-interface": "^0.2.0"
   },
   "repository": {
     "type": "git",
@@ -19,12 +19,12 @@
   "author": "Titus Wormer <tituswormer@gmail.com>",
   "devDependencies": {
     "eslint": "^0.8.0",
-    "iso-639-3": "^0.0.2",
+    "iso-639-3": "^0.1.0",
     "istanbul": "^0.3.0",
     "jscs": "^1.5.0",
     "mocha": "^1.20.0",
     "plain-text-data-to-json": "^0.1.1",
-    "udhr": "^0.0.5"
+    "udhr": "^0.1.0"
   },
   "scripts": {
     "test": "node_modules/.bin/_mocha --reporter spec --check-leaks -u exports spec/speakers.spec.js",
