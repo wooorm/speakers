@@ -1,19 +1,28 @@
 'use strict';
 
+/**
+ * Dependencies.
+ */
+
 var fs,
     speakers,
-    sortedSpeakers,
     table;
 
 fs = require('fs');
-speakers = require('../').all();
+speakers = require('../');
 table = require('markdown-table');
+
+/**
+ * Sort information by number of speakers.
+ */
+
+var sortedSpeakers;
 
 sortedSpeakers = [];
 
-Object.keys(speakers).forEach(function (iso6393) {
-    speakers[iso6393].iso6393 = iso6393;
-    sortedSpeakers.push(speakers[iso6393]);
+speakers.keys().forEach(function (iso6393) {
+    speakers.get(iso6393).iso6393 = iso6393;
+    sortedSpeakers.push(speakers.get(iso6393));
 });
 
 sortedSpeakers.sort(function (a, b) {
@@ -43,6 +52,10 @@ data = data.concat(
         ];
     })
 );
+
+/**
+ * Write.
+ */
 
 fs.writeFileSync('Supported-languages.md',
     'Supported Languages\n' +
