@@ -7,7 +7,7 @@
 var speakers,
     assert;
 
-speakers = require('..');
+speakers = require('./');
 assert = require('assert');
 
 /**
