@@ -57,7 +57,7 @@ data = data.concat(
  * Write.
  */
 
-fs.writeFileSync('Supported-languages.md',
+fs.writeFileSync('Support.md',
     'Supported Languages\n' +
     '=================\n' +
     '\n' +

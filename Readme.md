@@ -60,7 +60,7 @@ See [the **datamap-interface** API](https://github.com/wooorm/datamap-interface)
 
 ## Supported Languages
 
-See [Supported-languages.md](Supported-languages.md).
+See [Support.md](Support.md).
 
 ## License
 
