@@ -2,10 +2,12 @@
 
 var fs,
     speakers,
-    sortedSpeakers;
+    sortedSpeakers,
+    table;
 
 fs = require('fs');
 speakers = require('../').all();
+table = require('markdown-table');
 
 sortedSpeakers = [];
 
@@ -18,6 +20,30 @@ sortedSpeakers.sort(function (a, b) {
     return b.speakers - a.speakers;
 });
 
+/**
+ * Set up data.
+ */
+
+var data;
+
+data = [
+    ['639-3', 'Speakers', '639-2T', '639-1', 'Name']
+];
+
+data = data.concat(
+    sortedSpeakers.map(function (language) {
+        return [
+            '[' + language.iso6393 + '](' +
+            'http://www.ethnologue.com/language/' + language.iso6393 +
+            ')',
+            language.speakers,
+            language.iso6392 || '',
+            language.iso6391 || '',
+            language.name || ''
+        ];
+    })
+);
+
 fs.writeFileSync('Supported-languages.md',
     'Supported Languages\n' +
     '=================\n' +
@@ -29,19 +55,9 @@ fs.writeFileSync('Supported-languages.md',
     '| 639-3 | Speakers | 639-2T | 639-1 | Name |\n' +
     '| ----: | -------: | :----- | :---- | :--- |\n' +
 
-    sortedSpeakers.map(function (language) {
-        return '| ' +
-            [
-                '[' + language.iso6393 + '](' +
-                'http://www.ethnologue.com/language/' + language.iso6393 +
-                ')',
-                language.speakers,
-                language.iso6392 || '',
-                language.iso6391 || '',
-                language.name || ''
-            ].join(' | ') +
-            ' |';
-    }).join('\n') +
+    table(data, {
+        'align' : ['r', 'r', 'l', 'l', 'l']
+    }) +
 
     '\n'
 );

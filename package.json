@@ -22,6 +22,7 @@
     "iso-639-3": "^0.1.0",
     "istanbul": "^0.3.0",
     "jscs": "^1.5.0",
+    "markdown-table": "^0.0.1",
     "mocha": "^1.20.0",
     "plain-text-data-to-json": "^0.1.1",
     "udhr": "^0.1.0"
