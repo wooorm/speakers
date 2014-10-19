@@ -5,7 +5,7 @@ var fs,
     sortedSpeakers;
 
 fs = require('fs');
-speakers = require('./').all();
+speakers = require('../').all();
 
 sortedSpeakers = [];
 
