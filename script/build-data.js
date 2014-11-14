@@ -46,7 +46,7 @@ Object.keys(speakers).forEach(function (ohchr) {
     }
 
     object = {
-        'speakers' : speakers[ohchr]
+        'speakers': speakers[ohchr]
     };
 
     Object.keys(information).forEach(function (key) {

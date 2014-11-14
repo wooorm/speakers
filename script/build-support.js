@@ -67,7 +67,7 @@ fs.writeFileSync('Support.md',
     '\n' +
 
     table(data, {
-        'align' : ['r', 'r', 'l', 'l', 'l']
+        'align': ['r', 'r', 'l', 'l', 'l']
     }) +
 
     '\n'
