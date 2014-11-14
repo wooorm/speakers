@@ -1,4 +1,4 @@
-# speakers [![Build Status](https://travis-ci.org/wooorm/speakers.svg?branch=master)](https://travis-ci.org/wooorm/speakers) [![Coverage Status](https://img.shields.io/coveralls/wooorm/speakers.svg)](https://coveralls.io/r/wooorm/speakers?branch=master)
+# speakers [![Build Status](https://img.shields.io/travis/wooorm/speakers.svg?style=flat)](https://travis-ci.org/wooorm/speakers) [![Coverage Status](https://img.shields.io/coveralls/wooorm/speakers.svg?style=flat)](https://coveralls.io/r/wooorm/speakers?branch=master)
 
 Speaker count for 370 languages.
 
