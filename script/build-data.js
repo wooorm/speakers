@@ -1,6 +1,6 @@
 'use strict';
 
-/**
+/*
  * Dependencies.
  */
 
@@ -14,7 +14,7 @@ iso6393 = require('iso-639-3');
 fs = require('fs');
 plainTextToJSON = require('plain-text-data-to-json');
 
-/**
+/*
  * Input.
  */
 
@@ -22,7 +22,7 @@ var speakers;
 
 speakers = plainTextToJSON(fs.readFileSync('data/speakers.txt', 'utf-8'));
 
-/**
+/*
  * Output.
  */
 

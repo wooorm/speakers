@@ -1,6 +1,6 @@
 'use strict';
 
-/**
+/*
  * Dependencies.
  */
 
@@ -12,7 +12,7 @@ fs = require('fs');
 speakers = require('../');
 table = require('markdown-table');
 
-/**
+/*
  * Sort information by number of speakers.
  */
 
@@ -29,7 +29,7 @@ sortedSpeakers.sort(function (a, b) {
     return b.speakers - a.speakers;
 });
 
-/**
+/*
  * Set up data.
  */
 
@@ -53,7 +53,7 @@ data = data.concat(
     })
 );
 
-/**
+/*
  * Write.
  */
 
