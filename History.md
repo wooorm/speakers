@@ -1,5 +1,5 @@
 
-n.n.n / 2014-12-20
+0.1.2 / 2014-12-20
 ==================
 
   * Refactor to adhere to strict jsdoc style
