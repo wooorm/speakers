@@ -1,7 +1,5 @@
 .DS_Store
 *.log
-bower_components/
-build/
-components/
-coverage/
 node_modules/
+speakers.js
+speakers.min.js

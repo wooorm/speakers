@@ -1,13 +1,23 @@
 language: node_js
-script: npm run-script test-travis
 node_js:
-- '0.10'
-- '0.11'
-after_script: npm install coveralls@2.10.0 && cat ./coverage/lcov.info | coveralls
+- '4.0'
+- '5.0'
+- '6.0'
+after_script: bash <(curl -s https://codecov.io/bash)
 deploy:
-  provider: npm
-  email: tituswormer@gmail.com
-  api_key:
-    secure: ZDxsbcnNItIupAtMoOk5vuRmBB/FAkKFoxMpy/lAjFnzwNikOUpKQxf6J3jPYd9Tb7XbPdygWDmPgn7W/pWHlnURTTOM15vXjLW8TbpTRG7loA7AKoqIvHbP8hXZcx5+GBLWlN28OpGCbnCAnXbCfO7eWBIOPwNZvG10xOkulvQ=
-  on:
-    repo: wooorm/speakers
+  - provider: npm
+    email: tituswormer@gmail.com
+    api_key:
+      secure: WDwb4q1scLg1QO+9u2+GDK9JVDw6oMSWFjvirpmLIr6ums9bbOaJsA7w5F2etIrr/kQwuWBUPfm8FPORbwX1nZeNMuOQSf9EXLzPjh1qA2UM002rDP4paAVVW7EBz5WYFY0ptASSc4Xw8x8GyZx1JsyrGNicXSEdL30zj8+lujoJ23IDwHUtrDev2zE1KQQdV1KCcGxXoGsa6wmZSl1KQgqKLFlhj1Djg6DBIF/Ha4QE8hrftXHtvQZ8tVAtXLrbZa0WM1s5RkTvjqFkskvLn3wo91Zh/cX3AQd0GWH96EvoHR59KO7RoIqc8petxWNytLnbSzQaH9I3v9vwKM+sGQGgR0Os82YtwMyD1WpSOzEEbuPWDf5N55MbB6q+rW/7uK2e4Z0FcaBJ40fvGyHgkvbY7/p44qGjbtRDAs61X1SPNkywmVnNtAuSQOgv0Kf713nmu2BOTNJw2uLurERmlhcNp6RmfydrlmlJODgSPeNLSpmlKWtSD+dRs0LKOG5MGxR5x+TC81Lu5YqGzrvc5eTpMw5EMrQUTnSzExAOLhLUnlE4NgQSZ+HfC0f7tE6afOtqHkh/ySiX96OOhp+G7pMkf/CeSzXip2uhFM64wKb0SVNeVOJjiypw2rNzlkMo5BjehgCke3b+cic9G49K9jb6MFOu6wKAtLMX8cchIMs=
+    on:
+      tags: true
+      node: '5.0'
+  - provider: releases
+    api_key:
+      secure: PLVga0K6A4TCmRo0f1QMrCkyz23bsDlj7dsktVob3t9Gusuxj1Jd0UKP/TBJn2RAYnVJoIaYGRN3McV2aD6fEvy5fYOTs2L9FTWEyidqw0hQ0qfbv+Iq7zJ2W59sx8+ceTD35bJ3U5EuGhYslE1Jze2GpO680k/33bpeuARMkq+KecImU4HO4ILbyElIlW4Ci/HEtgZ/5s0Gj78C3vvvbYB+i7hgJHW4rd5LbMpoNNdOYK3wlB/V/EVq0Luj07hYIkz+5S/Tm2cpbotsaQccAHE2gNFL6rjiEARWzjcXI98K20uH0AgiUbbrGFb7bIPWT/uT49wKYs4tqINBkFC8FFnpPzcULn2Q35SqWhQJAQGior537GT59Q1EggEzvqWH6HQ2J6Dftc9AW//7So9t8IVfBgSfyoq+Ybh7fk7nAV9s87IXpWPVrnuVMa+R3x3m3r9thbECs9HD4cfFpLVWLylRLIjBOht8/dxnMsuGfFpJsAnVaq4JPaA9slcAVF3FG3HRIZHMn5WLEGsxZOtcr17xARPbpcNl4R7+XqRa41dhS2WA0gnczRtL7ApVFcblWdzx21uaQ0dmQj2G8ln+CGWAdXLQnW0fQ3goJZ9b5+YFgIYPIBzmhStdI7igqnXS7YNtLiMdy3GabNBOw8PRkNWy5zexkNBZnmTz6wGbmB0=
+    file:
+      - "speakers.js"
+      - "speakers.min.js"
+    on:
+      tags: true
+      node: '6.0'
