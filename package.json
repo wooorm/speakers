@@ -21,7 +21,7 @@
   "main": "index.json",
   "dependencies": {},
   "devDependencies": {
-    "browserify": "^13.0.0",
+    "browserify": "^14.0.0",
     "esmangle": "^1.0.0",
     "remark-cli": "^2.0.0",
     "remark-preset-wooorm": "^1.0.0",
