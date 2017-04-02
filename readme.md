@@ -1,6 +1,6 @@
 # speakers [![Build Status][travis-badge]][travis]
 
-Speaker count for 370+ languages.
+Speaker count for 450+ languages.
 
 Painstakingly crawled by hand from [OHCHR][], the numbers are (in
 some cases, very) rough estimates or out-of-date.
