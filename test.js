@@ -1,10 +1,8 @@
 'use strict';
 
-/* Dependencies. */
 var test = require('tape');
 var speakers = require('./');
 
-/* Tests. */
 test('speakers', function (t) {
   t.equal(speakers.eng, 322000000);
   t.equal(speakers.jpn, 125000000);
