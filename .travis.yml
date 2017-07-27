@@ -1,7 +1,7 @@
 language: node_js
 node_js:
 - '4.0'
-- '7.0'
+- '8.0'
 after_script: bash <(curl -s https://codecov.io/bash)
 sudo: false
 deploy:
@@ -11,7 +11,7 @@ deploy:
       secure: Afbya0A6CHQkMpf5Rk2KkWe0KYLrd/+q4L0OYL/2KfscQEh3Arujfv8I7sgcK6CBFpvcnhFzcMOdr6qE0X5oEislkwflJ9Ns5IKnUdyV4RIayGcDnjhQN7kdkLhHrpxnrRCxNkdkgR8J/jSgRLLL6FDdaO9GR91Z3+6wIKxZE/4=
     on:
       tags: true
-      node: '4.0'
+      node: '8.0'
   - provider: releases
     api_key:
       secure: OlnqdSQI2n460w5t5ZozYGxBKm8XQIcQsTNZi9BwJi1hzv1YC50xtdwynCsMz0xw+zPQgnQ8ze09PZQJPB51o0yYRNwvex1luPJK7NTT0BtZZxnVM4Q47dJYWoU4Lq1nJcKJnFIfepqv0ZtPY2Z01no0wg6ZotjW3/LCtBNWF8A=
@@ -20,4 +20,4 @@ deploy:
       - "speakers.min.js"
     on:
       tags: true
-      node: '7.0'
+      node: '8.0'
