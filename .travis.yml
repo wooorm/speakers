@@ -8,7 +8,7 @@ deploy:
   provider: releases
   skip_cleanup: true
   api_key:
-    secure: OlnqdSQI2n460w5t5ZozYGxBKm8XQIcQsTNZi9BwJi1hzv1YC50xtdwynCsMz0xw+zPQgnQ8ze09PZQJPB51o0yYRNwvex1luPJK7NTT0BtZZxnVM4Q47dJYWoU4Lq1nJcKJnFIfepqv0ZtPY2Z01no0wg6ZotjW3/LCtBNWF8A=
+    secure: URnzbmLn+otl8udQLBfc/XL+xyZ79uYXpTQDCEc9lUSjhXbwdbRIr5rGqBvNQlt8l+RSbrDu/DK3CG2q5NPjjRxCN0XJINmZHYYWQaxUgvCzR9JnvwCxPxpDqytGx7PQnyHlUFicHjmG+BbOihbBuD5rnedcVBHCZjM2/N8DrOE=
   file:
     - "speakers.js"
     - "speakers.min.js"
