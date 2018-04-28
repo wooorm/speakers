@@ -16,12 +16,12 @@ npm install speakers
 ## Usage
 
 ```js
-var speakers = require('speakers');
+var speakers = require('speakers')
 
-speakers.eng; //=> 322000000
-speakers.jpn; //=> 125000000
-speakers.por; //=> 182000000
-speakers.cmn; //=> 885000000
+console.log(speakers.eng) // => 322000000
+console.log(speakers.jpn) // => 125000000
+console.log(speakers.por) // => 182000000
+console.log(speakers.cmn) // => 885000000
 ```
 
 ## API
