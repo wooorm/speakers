@@ -3,3 +3,4 @@
 node_modules/
 speakers.js
 speakers.min.js
+yarn.lock
