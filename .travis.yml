@@ -1,11 +1,12 @@
 language: node_js
 node_js:
-- '4.0'
-- '8.0'
+- lts/boron
+- node
 after_script: bash <(curl -s https://codecov.io/bash)
 sudo: false
 deploy:
   provider: releases
+  skip_cleanup: true
   api_key:
     secure: OlnqdSQI2n460w5t5ZozYGxBKm8XQIcQsTNZi9BwJi1hzv1YC50xtdwynCsMz0xw+zPQgnQ8ze09PZQJPB51o0yYRNwvex1luPJK7NTT0BtZZxnVM4Q47dJYWoU4Lq1nJcKJnFIfepqv0ZtPY2Z01no0wg6ZotjW3/LCtBNWF8A=
   file:
@@ -13,4 +14,3 @@ deploy:
     - "speakers.min.js"
   on:
     tags: true
-    node: '8.0'
