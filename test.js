@@ -1,7 +1,7 @@
 'use strict';
 
 var test = require('tape');
-var speakers = require('./');
+var speakers = require('.');
 
 test('speakers', function (t) {
   t.equal(speakers.eng, 322000000);
