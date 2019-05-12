@@ -1,4 +1,8 @@
-# speakers [![Build Status][travis-badge]][travis]
+# speakers
+
+[![Build][build-badge]][build]
+[![Downloads][downloads-badge]][downloads]
+[![Size][size-badge]][size]
 
 Speaker count for 450+ languages.
 
@@ -36,9 +40,17 @@ Object mapping `string`s (ISO 639-3 codes) to `number`s (speakers).
 
 <!-- Definitions -->
 
-[travis-badge]: https://img.shields.io/travis/wooorm/speakers.svg
+[build-badge]: https://img.shields.io/travis/wooorm/speakers.svg
 
-[travis]: https://travis-ci.org/wooorm/speakers
+[build]: https://travis-ci.org/wooorm/speakers
+
+[downloads-badge]: https://img.shields.io/npm/dm/speakers.svg
+
+[downloads]: https://www.npmjs.com/package/speakers
+
+[size-badge]: https://img.shields.io/bundlephobia/minzip/speakers.svg
+
+[size]: https://bundlephobia.com/result?p=speakers
 
 [npm]: https://docs.npmjs.com/cli/install
 
