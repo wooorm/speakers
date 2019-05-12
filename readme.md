@@ -44,6 +44,6 @@ Object mapping `string`s (ISO 639-3 codes) to `number`s (speakers).
 
 [license]: license
 
-[author]: http://wooorm.com
+[author]: https://wooorm.com
 
-[ohchr]: http://www.ohchr.org
+[ohchr]: https://www.ohchr.org
