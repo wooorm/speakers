@@ -6,18 +6,18 @@
 
 Speaker count for 450+ languages.
 
-Painstakingly crawled by hand from [OHCHR][], the numbers are (in
-some cases, very) rough estimates or out-of-date.
+Painstakingly crawled by hand from [OHCHR][], the numbers are (in some cases,
+very) rough estimates or out-of-date.
 
-## Installation
+## Install
 
 [npm][]:
 
-```bash
+```sh
 npm install speakers
 ```
 
-## Usage
+## Use
 
 ```js
 var speakers = require('speakers')
@@ -32,7 +32,22 @@ console.log(speakers.cmn) // => 885000000
 
 ### `speakers`
 
-Object mapping `string`s (ISO 639-3 codes) to `number`s (speakers).
+Object mapping `string`s ([ISO 639-3][i6393] codes) to `number`s (speakers).
+
+## Related
+
+*   [`bcp-47`](https://github.com/wooorm/bcp-47)
+    — Parse and stringify BCP 47 language tags
+*   [`bcp-47-match`](https://github.com/wooorm/bcp-47-match)
+    — Match BCP 47 language tags with language ranges per RFC 4647
+*   [`iso-639-2`](https://github.com/wooorm/iso-639-2)
+    — ISO 639-2 codes
+*   [`iso-639-3`](https://github.com/wooorm/iso-639-3)
+    — ISO 639-3 codes
+*   [`iso-15924`](https://github.com/wooorm/iso-15924)
+    — ISO 15924 codes
+*   [`un-m49`](https://github.com/wooorm/un-49)
+    — UN M49 codes
 
 ## License
 
@@ -59,3 +74,5 @@ Object mapping `string`s (ISO 639-3 codes) to `number`s (speakers).
 [author]: https://wooorm.com
 
 [ohchr]: https://www.ohchr.org
+
+[i6393]: https://github.com/wooorm/iso-639-3
