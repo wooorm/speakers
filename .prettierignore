@@ -1,2 +1,4 @@
 speakers.js
 speakers.min.js
+*.json
+*.md

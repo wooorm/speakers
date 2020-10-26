@@ -3,7 +3,7 @@
 var test = require('tape')
 var speakers = require('.')
 
-test('speakers', function(t) {
+test('speakers', function (t) {
   t.equal(speakers.eng, 322000000)
   t.equal(speakers.jpn, 125000000)
   t.equal(speakers.por, 182000000)
