@@ -55,9 +55,9 @@ Object mapping `string`s ([ISO 639-3][i6393] codes) to `number`s (speakers).
 
 <!-- Definitions -->
 
-[build-badge]: https://img.shields.io/travis/wooorm/speakers.svg
+[build-badge]: https://github.com/wooorm/speakers/workflows/main/badge.svg
 
-[build]: https://travis-ci.org/wooorm/speakers
+[build]: https://github.com/wooorm/speakers/actions
 
 [downloads-badge]: https://img.shields.io/npm/dm/speakers.svg
 
