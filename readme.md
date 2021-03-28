@@ -1,6 +1,7 @@
 # speakers
 
 [![Build][build-badge]][build]
+[![Coverage][coverage-badge]][coverage]
 [![Downloads][downloads-badge]][downloads]
 [![Size][size-badge]][size]
 
@@ -11,6 +12,9 @@ very) rough estimates or out-of-date.
 
 ## Install
 
+This package is ESM only: Node 12+ is needed to use it and it must be `import`ed
+instead of `require`d.
+
 [npm][]:
 
 ```sh
@@ -20,7 +24,7 @@ npm install speakers
 ## Use
 
 ```js
-var speakers = require('speakers')
+import {speakers} from 'speakers'
 
 console.log(speakers.eng) // => 322000000
 console.log(speakers.jpn) // => 125000000
@@ -29,6 +33,9 @@ console.log(speakers.cmn) // => 885000000
 ```
 
 ## API
+
+This package exports the following identifiers: `speakers`.
+There is no default export.
 
 ### `speakers`
 
@@ -58,6 +65,10 @@ Object mapping `string`s ([ISO 639-3][i6393] codes) to `number`s (speakers).
 [build-badge]: https://github.com/wooorm/speakers/workflows/main/badge.svg
 
 [build]: https://github.com/wooorm/speakers/actions
+
+[coverage-badge]: https://img.shields.io/codecov/c/github/wooorm/speakers.svg
+
+[coverage]: https://codecov.io/github/wooorm/speakers
 
 [downloads-badge]: https://img.shields.io/npm/dm/speakers.svg
 

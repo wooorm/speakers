@@ -1,7 +1,5 @@
-'use strict'
-
-var test = require('tape')
-var speakers = require('.')
+import test from 'tape'
+import {speakers} from './index.js'
 
 test('speakers', function (t) {
   t.equal(speakers.eng, 322000000)
