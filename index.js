@@ -241,7 +241,7 @@ export var speakers = {
   mcd: 950,
   mcf: 1280,
   men: 1480000,
-  mag: 219880,
+  mga: 219880,
   mic: 8100,
   mjz: 21841,
   min: 6500000,
