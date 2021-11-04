@@ -363,7 +363,7 @@ export const speakers = {
   sna: 7000000,
   snd: 19675000,
   snk: 1067000,
-  snn: 1240000,
+  snn: 500,
   som: 8335000,
   sot: 4197000,
   spa: 332000000,
