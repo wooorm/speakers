@@ -1,3 +1,8 @@
+/**
+ * Speaker count for 450+ languages.
+ *
+ * @type {Record<string, number>}
+ */
 export const speakers = {
   abk: 105000,
   ace: 3000000,
