@@ -7,18 +7,55 @@
 
 Speaker count for 450+ languages.
 
-Painstakingly crawled by hand from [OHCHR][], the numbers are (in some cases,
-very) rough estimates or out-of-date.
+## Contents
+
+*   [What is this?](#what-is-this)
+*   [When should I use this?](#when-should-i-use-this)
+*   [Install](#install)
+*   [Use](#use)
+*   [API](#api)
+    *   [`speakers`](#speakers-1)
+*   [Types](#types)
+*   [Compatibility](#compatibility)
+*   [Security](#security)
+*   [Related](#related)
+*   [Contribute](#contribute)
+*   [License](#license)
+
+## What is this?
+
+This package provides speaker counts for many languages.
+Painstakingly crawled by hand from [OHCHR][].
+
+> 👉 **Note**: the numbers are (in some cases, very) rough estimates or
+> out-of-date.
+
+## When should I use this?
+
+You can use this package if you want to get a (comparative) estimate of how
+many folks speak a certain language.
 
 ## Install
 
-This package is ESM only: Node 12+ is needed to use it and it must be `import`ed
-instead of `require`d.
-
-[npm][]:
+This package is [ESM only][esm].
+In Node.js (version 12.20+, 14.14+, or 16.0+), install with [npm][]:
 
 ```sh
 npm install speakers
+```
+
+In Deno with [Skypack][]:
+
+```js
+import {speakers} from 'https://cdn.skypack.dev/speakers@2?dts'
+```
+
+In browsers with [Skypack][]:
+
+```html
+<script type="module">
+  import {speakers} from 'https://cdn.skypack.dev/speakers@2?min'
+</script>
 ```
 
 ## Use
@@ -39,22 +76,41 @@ There is no default export.
 
 ### `speakers`
 
-Object mapping `string`s ([ISO 639-3][i6393] codes) to `number`s (speakers).
+Map of [ISO 639-3][i6393] codes to speaker counts (`number`).
+
+## Types
+
+This package is fully typed with [TypeScript][].
+
+## Compatibility
+
+This package is at least compatible with all maintained versions of Node.js.
+As of now, that is Node.js 12.20+, 14.14+, and 16.0+.
+It also works in Deno and modern browsers.
+
+## Security
+
+This package is safe.
 
 ## Related
 
-*   [`bcp-47`](https://github.com/wooorm/bcp-47)
-    — Parse and stringify BCP 47 language tags
-*   [`bcp-47-match`](https://github.com/wooorm/bcp-47-match)
-    — Match BCP 47 language tags with language ranges per RFC 4647
-*   [`iso-639-2`](https://github.com/wooorm/iso-639-2)
+*   [`wooorm/bcp-47`](https://github.com/wooorm/bcp-47)
+    — parse and stringify BCP 47 language tags
+*   [`wooorm/bcp-47-match`](https://github.com/wooorm/bcp-47-match)
+    — match BCP 47 language tags with language ranges per RFC 4647
+*   [`wooorm/iso-639-2`](https://github.com/wooorm/iso-639-2)
     — ISO 639-2 codes
-*   [`iso-639-3`](https://github.com/wooorm/iso-639-3)
+*   [`wooorm/iso-639-3`](https://github.com/wooorm/iso-639-3)
     — ISO 639-3 codes
-*   [`iso-15924`](https://github.com/wooorm/iso-15924)
+*   [`wooorm/iso-15924`](https://github.com/wooorm/iso-15924)
     — ISO 15924 codes
-*   [`un-m49`](https://github.com/wooorm/un-49)
+*   [`wooorm/un-m49`](https://github.com/wooorm/un-49)
     — UN M49 codes
+
+## Contribute
+
+Yes please!
+See [How to Contribute to Open Source][contribute].
 
 ## License
 
@@ -80,9 +136,17 @@ Object mapping `string`s ([ISO 639-3][i6393] codes) to `number`s (speakers).
 
 [npm]: https://docs.npmjs.com/cli/install
 
+[skypack]: https://www.skypack.dev
+
 [license]: license
 
 [author]: https://wooorm.com
+
+[esm]: https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c
+
+[typescript]: https://www.typescriptlang.org
+
+[contribute]: https://opensource.guide/how-to-contribute/
 
 [ohchr]: https://www.ohchr.org
 
