@@ -1,4 +1,4 @@
-export var speakers = {
+export const speakers = {
   abk: 105000,
   ace: 3000000,
   acu: 4500,
