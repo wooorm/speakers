@@ -44,17 +44,17 @@ In Node.js (version 12.20+, 14.14+, or 16.0+), install with [npm][]:
 npm install speakers
 ```
 
-In Deno with [Skypack][]:
+In Deno with [`esm.sh`][esmsh]:
 
 ```js
-import {speakers} from 'https://cdn.skypack.dev/speakers@2?dts'
+import {speakers} from 'https://esm.sh/speakers@2'
 ```
 
-In browsers with [Skypack][]:
+In browsers with [`esm.sh`][esmsh]:
 
 ```html
 <script type="module">
-  import {speakers} from 'https://cdn.skypack.dev/speakers@2?min'
+  import {speakers} from 'https://esm.sh/speakers@2?bundle'
 </script>
 ```
 
@@ -136,7 +136,7 @@ See [How to Contribute to Open Source][contribute].
 
 [npm]: https://docs.npmjs.com/cli/install
 
-[skypack]: https://www.skypack.dev
+[esmsh]: https://esm.sh
 
 [license]: license
 
